@@ -28,7 +28,8 @@ If you are a non-English speaker, or English is not a primary language for you, 
 
 As another part of this preparation, we *highly* recommend spending extra time on topics and terms that you do not understand right away. We also encourage you to seek out additional resources that teach about these topics in your own native language so you can understand them more fully.
 
-In addition to this, you might also consider using a translation dictionary in your own language alongside our curriculum so you can readily reference it as you go. We do not have any recommendations on these since there are such a wide variety of languages spoken throughout the world, finding one may perhaps be a good first step in learning how to find useful tools online by searching. This is a skill you will utilize and improve as you progress in your learning to be a developer.
+In addition to this, you might also consider using a translation dictionary in your own language alongside our curriculum so you can readily reference it as you go. Some good dictionaries to translate effectively are: Merriam-Webster, Oxford Dictionary, Cambridge Dictionary, and if the ones mentioned fail go to the best resource on earth: Word Reference. (English teacher and coder enthusiast here). However, if you encounter issues please follow another dictionary of your choice. 
+Nevertheless there are such a wide variety of languages spoken throughout the world, finding one suitable dictionary may perhaps be a good first step in learning how to find useful tools online by searching and translating. This is a googling skill you will utilize and improve as you progress in your learning to be a developer.
 
 ### What Comes Next
 
